@@ -1,1 +1,1 @@
-MY first Java repository
+MY first Repository
